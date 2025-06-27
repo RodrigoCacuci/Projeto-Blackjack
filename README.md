@@ -1,3 +1,4 @@
+Integrantes: Kaique Cesar Romano de Almeida e Rodrigo Caçuci Parreiras de Miranda
 
 # Jogo de Cartas "21" com Sockets UDP
 
